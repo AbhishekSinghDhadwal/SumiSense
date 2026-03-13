@@ -1,0 +1,17 @@
+[
+  {
+    "mode": "personal",
+    "sourceText": "Cravings spiked around 7 PM after a short night of sleep, but I stepped outside, breathed for a bit, and texted my sister Nia.",
+    "expectedStyle": "light cleanup while preserving personal voice"
+  },
+  {
+    "mode": "clinician",
+    "sourceText": "I'm Maya Rivera and I saw Dr. Lee at Valley Clinic on March 10, 2026. Sleep dropped below five hours most nights and cravings increased this week.",
+    "expectedStyle": "keep symptom timeline while trimming unnecessary identifiers"
+  },
+  {
+    "mode": "researchSafe",
+    "sourceText": "My name is Maya Rivera, email maya.rivera@email.com, phone 602-555-1901, address 1120 E Alameda Dr in Tempe. I met Dr. Lee on 03/10/2026 and shared MRN-8842.",
+    "expectedStyle": "aggressively remove identifiers and preserve behavioral signal context"
+  }
+]
