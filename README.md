@@ -89,9 +89,6 @@ SumiSense is designed for a user persona that wants:
 **Zetic usage**
 - Warmup + readiness checks call Melange-backed services directly
 
-**Why useful for persona/demo**
-- Transparency builds trust; operator can stabilize demo quickly
-
 ### 5) Onboarding + Launch Experience
 - First-launch onboarding modal (privacy-first, on-device, non-diagnostic boundary)
 - Branded launch card and polished tab flow
